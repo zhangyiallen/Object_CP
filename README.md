@@ -1,7 +1,7 @@
 # Change-Point Detection for Object-Valued Time Series
 
 This repository contains the code and implementation details for the manuscript  
-**"Doubly Robust Conditional Independence Testing with Generative Neural Networks."**
+**"Change-Point Detection for Object-Valued Time Series"**
 
 ---
 
