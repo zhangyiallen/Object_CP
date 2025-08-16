@@ -10,7 +10,7 @@ This repository contains the code and implementation details for the manuscript
 The project is organized into two main parts:
 
 ### 1. Simulations/  
-Contains code for Section 4.1 of the paper:  
+This folder contains code for Section 4.1 of the paper: to demonstrate how to use the proposed method for single change point testing. 
 
 - `Table1_n_200.R`: reproduce the rows in Table 1 of Section 4.1 with n=200
 - `Table1_n_400.R`: reproduce the rows in Table 1 of Section 4.1 with n=400
@@ -19,10 +19,10 @@ Contains code for Section 4.1 of the paper:
 
 
 ### 2. Real Data Applications/  
-Contains code for the following sections of the paper:  
-`Section_5_1`, `Section_5_2`, and `Appendix_F`.
+This folder contains code for Section 5.1 of the paper: to demonstrate how to use the proposed WBS-SN algorithm for multiple change point estimation. 
 
-Each folder includes code and a corresponding `README.md` file that provides detailed instructions on how to reproduce the figures or tables presented in the paper.
+- `WBS_critic_value.R`: reproduce the rows in Table 1 of Section 4.1 with n=200
+- `WBS-SN.R`: reproduce the rows in Table 1 of Section 4.1 with n=400
 
 ---
 
