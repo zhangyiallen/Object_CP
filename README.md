@@ -21,8 +21,8 @@ This folder contains code for Section 4.1 of the paper: to demonstrate how to us
 ### 2. Real Data Applications/  
 This folder contains code for Section 5.1 of the paper: to demonstrate how to use the proposed WBS-SN algorithm for multiple change point estimation. 
 
-- `WBS_critic_value.R`: reproduce the rows in Table 1 of Section 4.1 with n=200
-- `WBS-SN.R`: reproduce the rows in Table 1 of Section 4.1 with n=400
+- `WBS_critic_value.R`: simulate the rejection criteria used in the WBS-SN algorithm
+- `WBS-SN.R`: reproduce the results in Section 5.1 of the paper
 
 ---
 
