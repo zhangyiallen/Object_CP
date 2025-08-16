@@ -1,7 +1,8 @@
 # Change-Point Detection for Object-Valued Time Series
 
-This repository contains the code and implementation details for the manuscript  
-**"Change-Point Detection for Object-Valued Time Series"**
+This repository contains the code and implementation details for the manuscript:
+
+**"[Change-Point Detection for Object-Valued Time Series](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2520862)"**
 
 ---
 
@@ -24,39 +25,4 @@ This folder contains code for Section 5.1 of the paper: to demonstrate how to us
 - `WBS_critic_value.R`: simulate the rejection criteria used in the WBS-SN algorithm
 - `WBS-SN.R`: reproduce the results in Section 5.1 of the paper
 
----
 
-## Data Availability
-
-- For **Section_5_1** and **Section_5_2**, the MNIST dataset (`.pt` files) is provided in the `MNIST/` folder under `Section_5_1`.
-
-- For **Appendix_F**, the CCLE dataset can be obtained from the [GCIT repository](https://github.com/alexisbellot/GCIT/tree/master/CCLE%20Experiments). Please download the following datasets:
-  - Response data  
-  - Mutation data  
-  - Expression data
-
-Place these datasets in the appropriate locations as described in the relevant `README.md` files.
-
----
-
-## Environment and Dependencies
-
-### Python Environment
-
-The following package versions were used:
-
-| Package                  | Version              |
-|--------------------------|----------------------|
-| python                   | 3.10.x               |
-| torch                    | 2.0.1+cu118          |
-| numpy                    | ~1.25                |
-| scipy                    | ~1.10.1              |
-| tqdm                     | ~4.65                |
-| scikit-learn             | 1.3.2                |
-| tensorflow_probability   | ~0.21.0              |
-
-### R Environment
-
-The following R version was used for all R Markdown (`.Rmd`) or R script files:
-
-- R version 4.3.3 (2024-02-29 ucrt)
