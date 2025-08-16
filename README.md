@@ -12,10 +12,13 @@ The project is organized into two main parts:
 ### 1. Simulations/  
 Contains code for Section 4.1 of the paper:  
 
-- `Section_4_1`
-`Section_4_1`, `Section_4_2`, `Section_4_3`, `Appendix_B`, `Appendix_C`, `Appendix_D`, and `Appendix_E`.
+- `Table1_n_200.R`: reproduce the rows in Table 1 of Section 4.1 with n=200
+- `Table1_n_400.R`: reproduce the rows in Table 1 of Section 4.1 with n=400
+- `Figure1_DGP_1.R`: reproduce the three plots for DGP1 in Figure 1
+- `Figure1_DGP_2.R`: reproduce the three plots for DGP2 in Figure 1 
 
-### 2. Real_Data_Applications/  
+
+### 2. Real Data Applications/  
 Contains code for the following sections of the paper:  
 `Section_5_1`, `Section_5_2`, and `Appendix_F`.
 
