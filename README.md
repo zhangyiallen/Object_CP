@@ -10,7 +10,9 @@ This repository contains the code and implementation details for the manuscript
 The project is organized into two main parts:
 
 ### 1. Simulations/  
-Contains code for the following sections of the paper:  
+Contains code for Section 4.1 of the paper:  
+
+- `Section_4_1`
 `Section_4_1`, `Section_4_2`, `Section_4_3`, `Appendix_B`, `Appendix_C`, `Appendix_D`, and `Appendix_E`.
 
 ### 2. Real_Data_Applications/  
